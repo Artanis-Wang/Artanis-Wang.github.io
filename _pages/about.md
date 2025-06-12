@@ -11,7 +11,7 @@ I am a direct Ph.D. student (Class of 2023) at the College of Computer Science a
 
 Publications
 ======
-*Dezun Dong, *Ziyu Wang, *Fei Lei (*Co-corresponding authros) [Zettafly: A Network Topology with Flexible Non-blocking Regions for Large-scale AI and HPC Systems](https://doi.org/10.1145/3695053.3731098). In Proceedings of the 52nd Annual International Symposium on Computer Architecture (ISCA ’25)
+\*Dezun Dong, \*Ziyu Wang, \*Fei Lei (\*Co-corresponding authros) [Zettafly: A Network Topology with Flexible Non-blocking Regions for Large-scale AI and HPC Systems](https://doi.org/10.1145/3695053.3731098). In Proceedings of the 52nd Annual International Symposium on Computer Architecture (ISCA ’25)
 
 Research Topics
 ======
