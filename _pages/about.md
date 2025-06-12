@@ -36,3 +36,5 @@ Movies, anime, video games, buying various interesting electronic products, purc
 Contact Me
 ======
 wangziyu@nudt.edu.cn;
+
+If you have any academic questions you'd like to discuss with me, please don't hesitate to contact me. You are welcome.
