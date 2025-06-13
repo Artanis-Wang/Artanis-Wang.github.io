@@ -25,13 +25,13 @@ Awards
 
 Skills
 ======
-C/C++/Verilog/SystemVerilog/Python/Java; 
+C/C++/Verilog/SystemVerilog/Python/Java
 
 Linux, HiNA's in-house simulator, Booksim 2.0, SST, OMNeT++
 
 Interests
 ======
-Movies, animes, video games, buying various interesting electronic products, purchasing a bunch of second-hand electronic components at the lowest possible price and assembling them into a high-performance personal computer..., hiking, table tennis, Chinese chess.
+Movies, animes (One Piece is my favoriate), video games (Emerald rank in League of Legends), buying various interesting electronic products, purchasing a bunch of second-hand electronic components at the lowest possible price and assembling them into a high-performance personal computer..., hiking, table tennis, Chinese chess.
 
 Contact Me
 ======
